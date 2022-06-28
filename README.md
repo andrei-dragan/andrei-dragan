@@ -4,4 +4,4 @@ I am a sophomore student currently completing my Computer Science Bachelor’s D
 
 ---
 
-- 💻 [University work](https://github.com/andrei-dragan/University-work) - projects I did during university.
+- 🎓 [University work](https://github.com/andrei-dragan/University-work) - projects I did during university.
