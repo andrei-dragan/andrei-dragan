@@ -8,8 +8,10 @@ I am a sophomore student currently completing my Computer Science Bachelor’s D
 - ⛵ [A-Yacht](https://github.com/andrei-dragan/a-yacht) - A-Yacht is a website that sells high-quality and luxurious yachts.
 - 🧑 [My personal website](https://draganandrei.netlify.app/) - Here you can find more things about me, about my projects and also about my hobbies such as graphic design and brand identity.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-dragan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Get in touch
 - [LinkedIn](https://linkedin.com/in/andrei-dragan-67793b21a)
 - Mail - career.draganandrei@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrei-dragan)](https://github.com/anuraghazra/github-readme-stats)
+
