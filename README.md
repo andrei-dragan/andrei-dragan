@@ -11,3 +11,5 @@ I am a sophomore student currently completing my Computer Science Bachelor’s D
 ## Get in touch
 - [LinkedIn](https://linkedin.com/in/andrei-dragan-67793b21a)
 - Mail - career.draganandrei@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
