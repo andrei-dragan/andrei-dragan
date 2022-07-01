@@ -9,5 +9,5 @@ I am a sophomore student currently completing my Computer Science Bachelor’s D
 - 🧑 [My personal website](https://draganandrei.netlify.app/) - Here you can find more things about me, about my projects and also about my hobbies such as graphic design and brand identity.
 
 ## Get in touch
-- [LinkedIn](linkedin.com/in/andrei-dragan-67793b21a)
+- [LinkedIn](https://linkedin.com/in/andrei-dragan-67793b21a)
 - Mail - career.draganandrei@gmail.com
