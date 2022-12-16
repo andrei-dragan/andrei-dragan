@@ -12,6 +12,6 @@ I am a sophomore student currently completing my Computer Science Bachelor’s D
 
 ## Get in touch
 - [LinkedIn](https://linkedin.com/in/andrei-dragan-67793b21a)
-- Mail - career.draganandrei@gmail.com
+- Mail - dandrei04@yahoo.com
 
 
