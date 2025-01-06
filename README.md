@@ -2,6 +2,7 @@
 
 I am a full-time software engineer at Bloomberg (🇬🇧) and a part-time student at University of Illinois Urbana-Champaign (🇺🇸) studying my Master's Degree in Computer Science. In my free time, I love to code and create interesting things. Below you can find most of my work, starting from university projects, to personal websites and applications.
 
+- 🖼️ [Leve](https://github.com/andrei-dragan/Leve?tab=readme-ov-file) - my AI thesis project entitled _Leve - A Lightweight Monocular Depth Estimation Model Exploring Knowledge Distillation via Foundation Models_
 - 🎓 [University work](https://github.com/andrei-dragan/university-work) - small projects I did during university.
 - 🧸 [Toy-Language Interpreter](https://github.com/andrei-dragan/Toy-Interpreter) - a programming language interpreter built using the **model-view-controller** architectural pattern and multiple **object-oriented concepts**.
 - 👨‍💻 [Compiler](https://github.com/andrei-dragan/custom-compiler/tree/main) - a lightweight custom compiler built in C++.
