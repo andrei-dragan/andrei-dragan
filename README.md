@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Andrei!
 
-I am a full-time software engineer at Bloomberg (🇬🇧), studying in parallel a Master's Degree in Computer Science at University of Illinois Urbana-Champaign (🇺🇸). In my free time, I love to code and create interesting things. Below you can find most of my work, starting from university projects, to personal websites and applications.
+I am a full-time software engineer at Bloomberg (🇬🇧) and a part-time student at University of Illinois Urbana-Champaign (🇺🇸) studying my Master's Degree in Computer Science. In my free time, I love to code and create interesting things. Below you can find most of my work, starting from university projects, to personal websites and applications.
 
 - 🎓 [University work](https://github.com/andrei-dragan/university-work) - small projects I did during university.
 - 🧸 [Toy-Language Interpreter](https://github.com/andrei-dragan/Toy-Interpreter) - a programming language interpreter built using the **model-view-controller** architectural pattern and multiple **object-oriented concepts**.
@@ -11,7 +11,7 @@ I am a full-time software engineer at Bloomberg (🇬🇧), studying in parallel
 - 🏆 [Multi-Threading Contest](https://github.com/andrei-dragan/multi-threading-contest) - a simple **multi-threaded** C program that simulates the process of selecting contest winners, while limiting the number of users who can simultaneously view the results at any given time, built using **threads** together with **mutexes**, **conditional variables** and **semaphores** as **synchronization mechanisms**. 
 - ☕ [Éveiller](https://github.com/andrei-dragan/eveiller) - a mockup coffee shop website that revolves around the idea of finding a relaxing and peaceful place, where coffee can bring the comfort felt at home.
 - ⛵ [A-Yacht](https://github.com/andrei-dragan/a-yacht) - a mockup website that sells high-quality and luxurious yachts.
-- 🧑 [My personal website](https://draganandrei.netlify.app/) - my freelancer website where you can find more things about me, my projects and also about my hobbies such as enjoying doing graphic design and creating brand identities.
+- 🧑 [My personal website](https://draganandrei.netlify.app/) - my freelancer website where you can find more things about me, my projects and also about my hobbies which include graphic design and creating brand identities.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-dragan&layout=compact&langs_count=8&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
